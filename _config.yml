@@ -1,7 +1,7 @@
 name: rheator
 favicon: null
-layout_spectrum: 0.024587850784882903
-typography_spectrum: 0.2933101807720959
+layout_spectrum: 0.06914
+typography_spectrum: 0.12715
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5589572966564447
-  lightness: 0.678317122394219
-  saturation: 0.9913799453061074
-  rhythmicContrast: 0.653645099606365
+    - '#e8eae9'
+    - '#c3c5c4'
+    - '#936d48'
+    - '#6b4c30'
+    - '#432108'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
