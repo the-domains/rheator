@@ -2,6 +2,7 @@ name: rheator
 favicon: null
 layout_spectrum: 0.06914
 typography_spectrum: 0.12715
+title: There is no spoon
 cta:
   domain: null
   bucket: null
